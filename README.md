@@ -1,7 +1,5 @@
 # Basic-Data-Analysis-Application
 
-Sure, here's a template for a README.md file for your data analysis application on GitHub:
-
 ---
 
 # Data Analysis App
