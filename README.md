@@ -1,4 +1,3 @@
-![Screenshot 2024-06-04 230710](https://github.com/ChamilkaMihiraj2002/Basic-Data-Analysis-Application/assets/120358764/393ac59c-3abb-4337-812b-dbd3f9eef20d)# Basic-Data-Analysis-Application
 
 ---
 
