@@ -18,7 +18,7 @@ To run this application, you need to have Python installed on your system. Follo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/data-analysis-app.git
+   git clone https://github.com/ChamilkaMihiraj2002/data-analysis-app.git
    cd data-analysis-app
    ```
 
